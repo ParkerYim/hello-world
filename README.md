@@ -1,5 +1,5 @@
 # hello-world
 
-"Hi, This is ParkerYim"
-"XXD"
+Hi, This is ParkerYim
+XXD
 "Hello, World !"
